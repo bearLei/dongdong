@@ -56,6 +56,7 @@ import com.easemob.exceptions.EaseMobException;
 import com.easemob.util.EMLog;
 
 public class DemoHelper {
+
 	
 	/**
      * 我们app自己定义的，用来把cmd穿透消息传递给ChatManager，让ChatManager来处理透传消息
